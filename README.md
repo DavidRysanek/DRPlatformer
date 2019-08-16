@@ -4,10 +4,10 @@ Simple infinite platformer game.
 Requires Unity3D 2019.1.1f1
 
 ### Controlls
-**Up** - Jump (hold for long jump)
-**Space/Left/Right** - Change color
-**Esc** - Pause/Resume game
-**R** - Restart game
+* **Up** - Jump (hold for long jump)
+* **Space/Left/Right** - Change color
+* **Esc** - Pause/Resume game
+* **R** - Restart game
 
 ### Game configuration
 See (and edit) `GameConfiguration` for gameplay parameters.
